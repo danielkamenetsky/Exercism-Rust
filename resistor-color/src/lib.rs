@@ -1,6 +1,6 @@
 
 //Need to import the two traits mentioned in README.md in order to use their methods
-// using IntoEnumIterator trait from enum_iterator crate
+//Using IntoEnumIterator trait from enum_iterator crate
 use enum_iterator::IntoEnumIterator;
 // using IntEnum trait from int_enum crate. 
 use int_enum::IntEnum;
