@@ -33,4 +33,4 @@ impl User {
     pub fn set_weight(&mut self, new_weight: f32) {
         self.weight = new_weight
     }
-}
+} 
