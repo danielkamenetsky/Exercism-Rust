@@ -1,5 +1,5 @@
 // This stub file contains items that aren't used yet; feel free to remove this module attribute
-// to enable stricter warnings.
+// to enable stricter warnings. 
 
 // Constraints: assembly line's speed can range from `0` (off) to `10` (maximum).
 // At lowests speed '1', 221 cars are produced per hour
