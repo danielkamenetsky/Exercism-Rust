@@ -1,5 +1,7 @@
 use rpn_calculator::*;
 
+// given a str s, first split the str by white space
+// 
 fn calculator_input(s: &str) -> Vec<CalculatorInput> {
     s.split_whitespace()
         .map(|s| match s {
